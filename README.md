@@ -3,7 +3,7 @@
 [![Website](https://nyoshaafrika-hash.github.io/nyoshaafricahackaton/)
 
 
-**Nyosha Afrika Hackathon** est un hackathon de technologie à **Goma, Nord-Kivu, République Démocratique du Congo**. 
+**Nyosha Afrika Hackathon** est un hackathon de technologie à **africain **. 
 
 📅 **Dates** : 10 Juillet - 15 Août 2026  
 🎯 **Thème** : [Redressons l'afrique au travers la technologie avancée]  
