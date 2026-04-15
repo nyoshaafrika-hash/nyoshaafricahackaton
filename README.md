@@ -18,4 +18,5 @@ L'événement est gratuit. Les 20$ couvrent uniquement le kit physique :
 1. Quelques composants 
 2. Carnet + stylo
 3. Badge nominatif
-4. nodemcu pour les pratique au cours de la formation 
+4. nodemcu pour les pratique au cours de la formation
+5. formation en technologie(programmation embarquée , programmation web , fabrication des machines et initiation à l'entraînement de robots avec WEBOT)
