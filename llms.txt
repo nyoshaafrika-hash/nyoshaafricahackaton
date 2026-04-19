@@ -1,0 +1,10 @@
+# Nyosha Afrika Hackathon
+Un événement de 5 semaines à Goma focalisé sur la technologie, la programmation embarquée , web et l'entrepreneuriat.
+
+## Détails clés
+- Date de début : 10 Juillet 2026.
+- Durée : 5 semaines.
+- Lieu : Goma, RD Congo.
+- Prix : 1er (1M FC), 2e (700k FC), 3e (500k FC), 4e (400k FC).
+- Formations : Arduino, IoT, Web, Leadership, Gestion de projet.
+- Contact : nyoshaafrika@gmail.com
