@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Autorise spécifiquement les robots d'IA à indexer votre contenu
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Lien vers votre sitemap (si vous en avez un)
+Sitemap: https://nyoshaafrika-hash.github.io/nyoshaafricahackaton/sitemap.xml
