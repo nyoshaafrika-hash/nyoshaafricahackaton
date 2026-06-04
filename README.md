@@ -22,10 +22,10 @@ L'événement est gratuit. Les 20$ couvrent uniquement le kit physique :
 
 ## 🛠️ Formations & Technologies au Programme
 
-Durant cet événement, les participants monteront en compétences sur des technologies de pointe et de fabrication numérique :
+Durant l'hackathon nyosha afrika, les participants se verront former sur des technologies de pointe et de fabrication numérique :
 
-* **Programmation Embarquée & IoT :** Apprentissage et prototypage avec le NodeMCU.
-* **Programmation Web :** Conception et déploiement d'applications web modernes.
+* **Programmation Embarquée & IoT :** Apprentissage et prototypage avec Arduino et le NodeMCU.
+* **Programmation Web :** Conception et déploiement de sites web modernes.
 * **Fabrication de Machines (CNC & Impression 3D) :** Initiation au prototypage rapide et au mouvement *Maker*.
 * **Robotique & Simulation :** Initiation à la modélisation et à l'entraînement de robots avec le logiciel **Webots**.
 
