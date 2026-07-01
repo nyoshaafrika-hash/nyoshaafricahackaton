@@ -4,13 +4,13 @@
     <loc>https://nyoshaafrika-hash.github.io/nyoshaafricahackaton/</loc>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://nyoshaafrika-hash.github.io/nyoshaafricahackaton/images/nyosha-afrika-hackathon.jpg</image:loc>
+      <image:loc>https://nyoshaafrika-hash.github.io/nyoshaafricahackaton/nyosha-afrika-hackathon.jpg</image:loc>
       <image:title>Nyosha Afrika Hackathon</image:title>
     </image:image>
 
     <image:image>
-      <image:loc>https://nyoshaafrika-hash.github.io/nyoshaafricahackaton/images/nyosha-afrika-module-formation.png</image:loc>
-      <image:title>Module de formation Nyosha Afrika</image:title>
+      <image:loc>https://nyoshaafrika-hash.github.io/nyoshaafricahackaton/affiche-officielle-nyosha-afrika-hackathon.jpg</image:loc>
+      <image:title>Affiche Officielle Hackathon Nyosha Afrika</image:title>
     </image:image>
   </url>
 </urlset>
